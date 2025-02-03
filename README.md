@@ -1,4 +1,4 @@
-# Full Stack Jira Clone with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, Shadcn UI 🔥🔥
+# Full Stack Project with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, Shadcn UI 🔥🔥
 
 ![image](https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c)
 
